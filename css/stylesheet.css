@@ -1,19 +1,14 @@
-.container{
-width: 600px;
-margin: 0 auto;
-padding: 20px;
-text-align: center;
-background-color: grey;
-font-size: 18px;
-line-height: 32px;
 
-height: 100%;
+.span4 img {
+    margin-right: 10px;
+}
+.span4 .img-left {
+    float: left;
+}
+.span4 .img-right {
+    float: right;
+}
 
-}
-#myphoto{
-   height: 200px;
-   max-width: 200px;
-}
 h1{
     font-size: 24px;
 }
